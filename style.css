@@ -269,6 +269,9 @@ a{
 .hr-sm{
 	display: block;
 }
+.carousel-indicators{
+	display: none;
+}
 }
 
 
